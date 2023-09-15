@@ -1,7 +1,7 @@
 name: Cloud check in action
 on:
   push:
-    branches:
+    branches: 
       - main
   watch:
     types: started
